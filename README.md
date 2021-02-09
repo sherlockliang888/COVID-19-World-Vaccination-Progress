@@ -1,6 +1,9 @@
 # COVID-19-World-Vaccination-Progress
 kaggle data
 
+Limitation:
+This project only has a size of 2000+, plus some columns have missing values up to 60%. Therefore, we need to be very careful regarding these. 
+
 Context
 
 Data is collected daily from Our World in Data GitHub repository for covid-19, merged and uploaded.
