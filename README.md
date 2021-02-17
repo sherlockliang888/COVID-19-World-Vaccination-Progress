@@ -10,6 +10,9 @@ Visualization available here:
 
 kaggle data
 
+Covid 19 live cases from : https://www.kaggle.com/josephassaker/covid19-global-dataset
+
+
 Limitation:
 This project only has a size of 2000+, plus some columns have missing values up to 60%. Therefore, we need to be very careful regarding these. 
 
