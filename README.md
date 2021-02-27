@@ -11,6 +11,7 @@ Visualization available here:
 kaggle data
 
 Covid 19 live cases from : https://www.kaggle.com/josephassaker/covid19-global-dataset
+2020 country population from: https://www.kaggle.com/tanuprabhu/population-by-country-2020?select=population_by_country_2020.csv
 
 
 Limitation:
