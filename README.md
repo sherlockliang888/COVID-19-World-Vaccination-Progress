@@ -13,7 +13,7 @@ Visualization available here:
 [Dashboard 5](https://public.tableau.com/profile/fengshou.liang#!/vizhome/Covidvaccinationprogress/Dashboard5)
 
 
-# All datasets are available at Kaggle.
+### All datasets are available at Kaggle.
 
 Covid 19 live cases from : https://www.kaggle.com/josephassaker/covid19-global-dataset
 
@@ -22,13 +22,13 @@ Covid 19 live cases from : https://www.kaggle.com/josephassaker/covid19-global-d
 World vaccination tracking from: https://www.kaggle.com/gpreda/covid-world-vaccination-progress
 
 
-# Limitation:
+### Limitation:
 This project only has a size of 2000+, plus some columns have missing values up to 60%. Therefore, we need to be very careful regarding these. 
 
-# Acknowledgement:
+### Acknowledgement:
 The datasets are all publicly availible at Kaggle. The use of data is for personal practice of data analysis only. 
 
-# Inspiration
+### Inspiration
 Track COVID-19 vaccination in the World, answer instantly to your questions:
 
 Which country has the most severe impact from COVID-19?
